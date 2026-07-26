@@ -1,6 +1,6 @@
 {
   "manifestVersion": 2,
-  "buildVersion": "1.1.5",
+  "buildVersion": "1.1.6",
   "minecraftVersion": "26.2",
   "fabricLoaderVersion": "0.19.3",
   "java": {
