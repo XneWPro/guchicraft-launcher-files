@@ -1,8 +1,16 @@
 {
-  "manifestVersion": 1,
-  "buildVersion": "1.0.2",
+  "manifestVersion": 2,
+  "buildVersion": "1.0.3",
   "minecraftVersion": "26.2",
   "fabricLoaderVersion": "0.19.3",
+  "java": {
+    "majorVersion": 25
+  },
+  "launch": {
+    "minimumMemoryMb": 2048,
+    "defaultMemoryMb": 4096,
+    "maximumMemoryMb": 16384
+  },
   "serverAddress": "guchicraft.peniscraft.pro:25969",
   "managedDirectories": [
     "mods"
