@@ -1,0 +1,38 @@
+{
+  "manifestVersion": 1,
+  "buildVersion": "1.0.0",
+  "minecraftVersion": "26.2",
+  "fabricLoaderVersion": "0.19.3",
+  "serverAddress": "guchicraft.peniscraft.pro",
+  "managedDirectories": [
+    "config",
+    "mods"
+  ],
+  "removeUnknownFiles": true,
+  "files": [
+    {
+      "path": "config/,gitkeep",
+      "url": "files/config/,gitkeep",
+      "sha256": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6",
+      "size": 2
+    },
+    {
+      "path": "java/,gitkeep",
+      "url": "files/java/,gitkeep",
+      "sha256": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6",
+      "size": 2
+    },
+    {
+      "path": "mods/,gitkeep",
+      "url": "files/mods/,gitkeep",
+      "sha256": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6",
+      "size": 2
+    },
+    {
+      "path": "resoursepacks/,gitkeep",
+      "url": "files/resoursepacks/,gitkeep",
+      "sha256": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6",
+      "size": 2
+    }
+  ]
+}
