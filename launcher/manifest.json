@@ -36,10 +36,22 @@
       "size": 493214
     },
     {
+      "path": "mods/ForgeConfigAPIPort-v26.2.1-mc26.2.x-Fabric.jar",
+      "url": "files/mods/ForgeConfigAPIPort-v26.2.1-mc26.2.x-Fabric.jar",
+      "sha256": "1b4b17fc4150481447201152604688c74726d6631c9a626dd21f2c5e2b3df1ac",
+      "size": 609550
+    },
+    {
       "path": "mods/PlayerAnimationLibMerged-1.2.5+mc.26.2.jar",
       "url": "files/mods/PlayerAnimationLibMerged-1.2.5+mc.26.2.jar",
       "sha256": "67f08c8d383d8982c53d6c99e0e0dd6bec5e2f47bd4ed210ab034583787960bf",
       "size": 419286
+    },
+    {
+      "path": "mods/PuzzlesLib-v26.2.1-mc26.2.x-Fabric.jar",
+      "url": "files/mods/PuzzlesLib-v26.2.1-mc26.2.x-Fabric.jar",
+      "sha256": "d5ce2ad7f99d8e403015f585d55064d591dcd90705483a8f5ce0f90c59e8d669",
+      "size": 1146181
     },
     {
       "path": "mods/SereneSeasons-fabric-26.2-26.1.2.0.4.jar",
@@ -84,6 +96,12 @@
       "size": 1135186
     },
     {
+      "path": "mods/collective-26.2.0-8.39.jar",
+      "url": "files/mods/collective-26.2.0-8.39.jar",
+      "sha256": "ce0704323bc06d381ed0aa63029fcd9f78289120d70c6ea4a8a6c8cf9f4ed26a",
+      "size": 1084412
+    },
+    {
       "path": "mods/combat_roll-fabric-3.0.1-26.2.jar",
       "url": "files/mods/combat_roll-fabric-3.0.1-26.2.jar",
       "sha256": "4671442408958321fbacffb9ba298b34ff5cea6b47983f420c1f56ad32e58083",
@@ -124,6 +142,12 @@
       "url": "files/mods/fish_of_thieves-mc26.2-v26.2.0.0-fabric.jar",
       "sha256": "472fe795348faed9bf89c76de621a573605404ffff962ba9554f9ffe6c1d3547",
       "size": 1970163
+    },
+    {
+      "path": "mods/glitchcore-fabric-26.2-26.2.0.0.0.jar",
+      "url": "files/mods/glitchcore-fabric-26.2-26.2.0.0.0.jar",
+      "sha256": "a9beaa47e4b92d7b84f2c38c96fd7aec8bd36ece6ae714ad8b771168161bcd03",
+      "size": 334861
     },
     {
       "path": "mods/healingcampfire-26.2.0-6.3.jar",
