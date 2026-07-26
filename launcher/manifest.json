@@ -1,6 +1,6 @@
 {
   "manifestVersion": 2,
-  "buildVersion": "1.1.3",
+  "buildVersion": "1.1.4",
   "minecraftVersion": "26.2",
   "fabricLoaderVersion": "0.19.3",
   "java": {
@@ -18,112 +18,10 @@
   "removeUnknownFiles": true,
   "files": [
     {
-      "path": "mods/BetterAnimationsCollection-v26.2.0-mc26.2.x-Fabric.jar",
-      "url": "files/mods/BetterAnimationsCollection-v26.2.0-mc26.2.x-Fabric.jar",
-      "sha256": "266cee6ce4076b73d24f0667a69a647469a30ce82a207b94e3079d08cbdc5b59",
-      "size": 164303
-    },
-    {
-      "path": "mods/Clumps-fabric-26.2-26.2.1.jar",
-      "url": "files/mods/Clumps-fabric-26.2-26.2.1.jar",
-      "sha256": "dc9544190abfb65a3c9ddc5dad1523c9dfc5a732344f528d908b950894398e8c",
-      "size": 19950
-    },
-    {
-      "path": "mods/FallingTree-26.2-25.jar",
-      "url": "files/mods/FallingTree-26.2-25.jar",
-      "sha256": "d5b68e2a97257b1931a49b8180edff222dde1df848bd402f7fea520e57b65b38",
-      "size": 493214
-    },
-    {
-      "path": "mods/ForgeConfigAPIPort-v26.2.1-mc26.2.x-Fabric.jar",
-      "url": "files/mods/ForgeConfigAPIPort-v26.2.1-mc26.2.x-Fabric.jar",
-      "sha256": "1b4b17fc4150481447201152604688c74726d6631c9a626dd21f2c5e2b3df1ac",
-      "size": 609550
-    },
-    {
       "path": "mods/PlayerAnimationLibMerged-1.2.5+mc.26.2.jar",
       "url": "files/mods/PlayerAnimationLibMerged-1.2.5+mc.26.2.jar",
       "sha256": "67f08c8d383d8982c53d6c99e0e0dd6bec5e2f47bd4ed210ab034583787960bf",
       "size": 419286
-    },
-    {
-      "path": "mods/PuzzlesLib-v26.2.1-mc26.2.x-Fabric.jar",
-      "url": "files/mods/PuzzlesLib-v26.2.1-mc26.2.x-Fabric.jar",
-      "sha256": "d5ce2ad7f99d8e403015f585d55064d591dcd90705483a8f5ce0f90c59e8d669",
-      "size": 1146181
-    },
-    {
-      "path": "mods/SereneSeasons-fabric-26.2-26.1.2.0.4.jar",
-      "url": "files/mods/SereneSeasons-fabric-26.2-26.1.2.0.4.jar",
-      "sha256": "7e8b94f07aa5d06a21c9e38820cdd70179be45ccf338ff95802be394c50d8d8b",
-      "size": 411260
-    },
-    {
-      "path": "mods/Structory_26.2_v1.3.7.jar",
-      "url": "files/mods/Structory_26.2_v1.3.7.jar",
-      "sha256": "e9079b2bb9bc2efb9b0f1244376488e41f8b50f25415094d8f03dc753cdfb131",
-      "size": 1261346
-    },
-    {
-      "path": "mods/WorldEditCUI-26.2-01.jar",
-      "url": "files/mods/WorldEditCUI-26.2-01.jar",
-      "sha256": "b39b807125e9093d4c64cf3f6ff401d5496cc84ad7d335895461a3c7546bb544",
-      "size": 685178
-    },
-    {
-      "path": "mods/alexsmobsfabric-26.2-1.0.0.jar",
-      "url": "files/mods/alexsmobsfabric-26.2-1.0.0.jar",
-      "sha256": "2a5fdc14273c894aedb7ec1eff69c808bb6100c31b484045f94f83f927a9f99f",
-      "size": 27112949
-    },
-    {
-      "path": "mods/bettercombat-fabric-3.2.2-26.2.jar",
-      "url": "files/mods/bettercombat-fabric-3.2.2-26.2.jar",
-      "sha256": "cce827992f517b181bc25c4f6c35e2c75818d29fcdbea90c3838704364b04639",
-      "size": 930628
-    },
-    {
-      "path": "mods/citadelfabric-26.2-1.0.0.jar",
-      "url": "files/mods/citadelfabric-26.2-1.0.0.jar",
-      "sha256": "da70ea8f06cb87a31c91d689841b19a0110470d984a0c197a9fcbe885f91fc1b",
-      "size": 748495
-    },
-    {
-      "path": "mods/cloth-config-26.2.155-fabric.jar",
-      "url": "files/mods/cloth-config-26.2.155-fabric.jar",
-      "sha256": "def4be7639cd66704f7e304d658ea0f6bf490fb4a6eaa2dbf18ec2c3999d6349",
-      "size": 1135186
-    },
-    {
-      "path": "mods/collective-26.2.0-8.39.jar",
-      "url": "files/mods/collective-26.2.0-8.39.jar",
-      "sha256": "ce0704323bc06d381ed0aa63029fcd9f78289120d70c6ea4a8a6c8cf9f4ed26a",
-      "size": 1084412
-    },
-    {
-      "path": "mods/combat_roll-fabric-3.0.1-26.2.jar",
-      "url": "files/mods/combat_roll-fabric-3.0.1-26.2.jar",
-      "sha256": "4671442408958321fbacffb9ba298b34ff5cea6b47983f420c1f56ad32e58083",
-      "size": 203656
-    },
-    {
-      "path": "mods/cushionbackport-26.2-Fabric-1.0.5.jar",
-      "url": "files/mods/cushionbackport-26.2-Fabric-1.0.5.jar",
-      "sha256": "434c85bab055804cdcc649f8020c5ce2ad462b36bdfe0b72f77cdb7d36764f52",
-      "size": 161407
-    },
-    {
-      "path": "mods/custom-crosshair-mod-v1.6.7-fabric-mc26.2.jar",
-      "url": "files/mods/custom-crosshair-mod-v1.6.7-fabric-mc26.2.jar",
-      "sha256": "44552307910b5de4f83e5c5ef613a8711ac2ca624ee0c479603d1a9f36d6c8c7",
-      "size": 140386
-    },
-    {
-      "path": "mods/doubledoors-26.2.0-7.2.jar",
-      "url": "files/mods/doubledoors-26.2.0-7.2.jar",
-      "sha256": "7be9c63167445c2d322ef193a9771c9a7cf556ae05b73f3942a096411f7f4193",
-      "size": 78268
     },
     {
       "path": "mods/emotecraft-for-MC26.2-3.4.0-b.build.161.jar",
@@ -138,88 +36,10 @@
       "size": 2530080
     },
     {
-      "path": "mods/fish_of_thieves-mc26.2-v26.2.0.0-fabric.jar",
-      "url": "files/mods/fish_of_thieves-mc26.2-v26.2.0.0-fabric.jar",
-      "sha256": "472fe795348faed9bf89c76de621a573605404ffff962ba9554f9ffe6c1d3547",
-      "size": 1970163
-    },
-    {
-      "path": "mods/glitchcore-fabric-26.2-26.2.0.0.0.jar",
-      "url": "files/mods/glitchcore-fabric-26.2-26.2.0.0.0.jar",
-      "sha256": "a9beaa47e4b92d7b84f2c38c96fd7aec8bd36ece6ae714ad8b771168161bcd03",
-      "size": 334861
-    },
-    {
-      "path": "mods/healingcampfire-26.2.0-6.3.jar",
-      "url": "files/mods/healingcampfire-26.2.0-6.3.jar",
-      "sha256": "e8d0374f1f2d2b9e358246caa1a0da688cfa164016f56917793a850832a522e4",
-      "size": 50733
-    },
-    {
-      "path": "mods/inventorytotem-26.2.0-3.4.jar",
-      "url": "files/mods/inventorytotem-26.2.0-3.4.jar",
-      "sha256": "4055ec3be3cdfbe022d47738ec32e00c16882457f6e7752bc24f09e62cf63e26",
-      "size": 28118
-    },
-    {
-      "path": "mods/jei-26.2-fabric-30.13.0.86.jar",
-      "url": "files/mods/jei-26.2-fabric-30.13.0.86.jar",
-      "sha256": "72f56680fc56e578d4fce35c83e91e25446a8fc8d93583d2e2166c18f6adc789",
-      "size": 1665975
-    },
-    {
-      "path": "mods/lambdynamiclights-4.12.2-26.2.jar",
-      "url": "files/mods/lambdynamiclights-4.12.2-26.2.jar",
-      "sha256": "d46d2ae5f1f0a97ca7ead891706759ed1d959279ebb11df45b71b6b4034a38d7",
-      "size": 1348440
-    },
-    {
-      "path": "mods/lithium-fabric-0.25.2-mc26.2.jar",
-      "url": "files/mods/lithium-fabric-0.25.2-mc26.2.jar",
-      "sha256": "7588d4a76989498f56e11e63a2b1170fff476e8d9c4aac94e310b3e7db469e0f",
-      "size": 911988
-    },
-    {
-      "path": "mods/logical_zoom-0.0.36-26.2-fabric.jar",
-      "url": "files/mods/logical_zoom-0.0.36-26.2-fabric.jar",
-      "sha256": "f3e0487edc20ace92c0739f34fd624a5990c5e2b997437163ae33618e1475894",
-      "size": 119573
-    },
-    {
-      "path": "mods/modmenu-20.0.1-26.2.jar",
-      "url": "files/mods/modmenu-20.0.1-26.2.jar",
-      "sha256": "81bfbca06012c57c74949072f2ffaad06360badee4d00dc59bfaeac80dd24bd8",
-      "size": 614002
-    },
-    {
       "path": "mods/plasmovoice-fabric-26.2-2.1.13.jar",
       "url": "files/mods/plasmovoice-fabric-26.2-2.1.13.jar",
       "sha256": "108a3a56647ed9fd4673f8788b4a3bb42bd12925db2dd280196290f569a20b82",
       "size": 12207106
-    },
-    {
-      "path": "mods/punchy-2.6.2-fabric-26.2.jar",
-      "url": "files/mods/punchy-2.6.2-fabric-26.2.jar",
-      "sha256": "aa6b213eb21ff050ba567bfca421cf102777dabde3fffe79fc973987a197d4a3",
-      "size": 1972363
-    },
-    {
-      "path": "mods/smoothswapping-0.9.10-26.2-fabric.jar",
-      "url": "files/mods/smoothswapping-0.9.10-26.2-fabric.jar",
-      "sha256": "ef1476040de1c587b7d7000c3316ba87cee718e6a1595dc7aab669a0f146a579",
-      "size": 67601
-    },
-    {
-      "path": "mods/sound-physics-remastered-fabric-1.5.1-26.2.jar",
-      "url": "files/mods/sound-physics-remastered-fabric-1.5.1-26.2.jar",
-      "sha256": "5bf577901123044337070fee36c1731c86e2fc12923bbb6a1c4b49c3423adcd9",
-      "size": 201669
-    },
-    {
-      "path": "mods/xaerominimap-fabric-26.2-26.4.2.jar",
-      "url": "files/mods/xaerominimap-fabric-26.2-26.4.2.jar",
-      "sha256": "69284892d2eb853c9aefa85a4c9b74232c322da00207994c67ab8aeed8a64048",
-      "size": 2221925
     }
   ]
 }
