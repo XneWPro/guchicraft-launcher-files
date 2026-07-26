@@ -1,6 +1,6 @@
 {
   "manifestVersion": 2,
-  "buildVersion": "1.1.6",
+  "buildVersion": "1.2.0",
   "minecraftVersion": "26.2",
   "fabricLoaderVersion": "0.19.3",
   "java": {
@@ -13,10 +13,17 @@
   },
   "serverAddress": "guchicraft.peniscraft.pro",
   "managedDirectories": [
+    "config",
     "mods"
   ],
   "removeUnknownFiles": true,
   "files": [
+    {
+      "path": "config/test-builder.txt",
+      "url": "files/config/test-builder.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
     {
       "path": "mods/PlayerAnimationLibMerged-1.2.5+mc.26.2.jar",
       "url": "files/mods/PlayerAnimationLibMerged-1.2.5+mc.26.2.jar",
