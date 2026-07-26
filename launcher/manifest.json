@@ -1,6 +1,6 @@
 {
   "manifestVersion": 1,
-  "buildVersion": "1.0.0",
+  "buildVersion": "1.0.1",
   "minecraftVersion": "26.2",
   "fabricLoaderVersion": "0.19.3",
   "serverAddress": "guchicraft.peniscraft.pro:25969",
