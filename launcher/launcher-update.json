@@ -1,9 +1,9 @@
 {
     "schemaVersion":  1,
-    "version":  "1.0.1",
-    "downloadUrl":  "https://github.com/XneWPro/guchicraft-launcher-files/releases/download/launcher-v1.0.1/GuchicraftLauncher-1.0.1-update.zip",
-    "sha256":  "3314ed6433ddfdc71dcfafc72141984bc03d2267dc0eb124222ed86444d7e01b",
-    "size":  10707362,
+    "version":  "1.0.2",
+    "downloadUrl":  "https://github.com/XneWPro/guchicraft-launcher-files/releases/download/launcher-v1.0.2/GuchicraftLauncher-1.0.2-update.zip",
+    "sha256":  "b8e6eabf3f9853537d543cffda61ee6a7c2749e82beddb52fcc277e283776955",
+    "size":  10708124,
     "mandatory":  false,
-    "changelog":  "Первый тест автоматического обновления portable-лаунчера"
+    "changelog":  "Добавлено окно со списком изменений, убрана консоль Updater, Добавлена очистка временных файлов"
 }
