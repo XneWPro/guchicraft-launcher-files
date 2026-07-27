@@ -1,0 +1,9 @@
+{
+    "schemaVersion":  1,
+    "version":  "1.0.1",
+    "downloadUrl":  "https://github.com/XneWPro/guchicraft-launcher-files/releases/download/launcher-v1.0.1/GuchicraftLauncher-1.0.1-update.zip",
+    "sha256":  "3314ed6433ddfdc71dcfafc72141984bc03d2267dc0eb124222ed86444d7e01b",
+    "size":  10707362,
+    "mandatory":  false,
+    "changelog":  "Первый тест автоматического обновления portable-лаунчера"
+}
