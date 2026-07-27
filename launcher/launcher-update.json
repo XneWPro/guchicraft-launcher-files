@@ -1,9 +1,9 @@
 {
     "schemaVersion":  1,
-    "version":  "1.0.6",
-    "downloadUrl":  "https://github.com/XneWPro/guchicraft-launcher-files/releases/download/launcher-v1.0.6/GuchicraftLauncher-1.0.6-update.zip",
-    "sha256":  "1bde3cbb79e3091bfc546767b1e032b5e99031daddbcf0a724599fe31a49b803",
-    "size":  10708599,
+    "version":  "1.0.7",
+    "downloadUrl":  "https://github.com/XneWPro/guchicraft-launcher-files/releases/download/launcher-v1.0.7/GuchicraftLauncher-1.0.7-update.zip",
+    "sha256":  "8a6fec1834ce662fcfd0b32eeaf3e39069de7debe6a388ba0ce64dd566cb49c0",
+    "size":  10709685,
     "mandatory":  false,
-    "changelog":  "Updater запускает обновлённый лаунчер напрямую через javaw.exe"
+    "changelog":  "Добавлена автоматическая повторная загрузка обновления при сбоях сети"
 }
