@@ -1,9 +1,9 @@
 {
     "schemaVersion":  1,
-    "version":  "1.0.3",
-    "downloadUrl":  "https://github.com/XneWPro/guchicraft-launcher-files/releases/download/launcher-v1.0.3/GuchicraftLauncher-1.0.3-update.zip",
-    "sha256":  "0afd0eefd2d227687b8a9d21dc44e336579085580b314a3ce46d05592a63e397",
-    "size":  10708100,
+    "version":  "1.0.4",
+    "downloadUrl":  "https://github.com/XneWPro/guchicraft-launcher-files/releases/download/launcher-v1.0.4/GuchicraftLauncher-1.0.4-update.zip",
+    "sha256":  "8ad0abbec625be065968504318a9d4679ba0f97ab74aaddc6af2c6c7c589655b",
+    "size":  10708662,
     "mandatory":  false,
-    "changelog":  "Проверка окна изменений, скрытого Updater и очистки временных файлов"
+    "changelog":  "Исправлен скрытый перезапуск лаунчера после обновления"
 }
