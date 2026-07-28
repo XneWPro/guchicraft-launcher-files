@@ -1,9 +1,9 @@
 {
     "schemaVersion":  1,
-    "version":  "1.0.9",
-    "downloadUrl":  "https://github.com/XneWPro/guchicraft-launcher-files/releases/download/launcher-v1.0.9/GuchicraftLauncher-1.0.9-update.zip",
-    "sha256":  "7f2a923d811994de31862656c40b0003e90140f9dce23c260517e106c175cc2a",
-    "size":  10709715,
+    "version":  "1.0.12",
+    "downloadUrl":  "https://github.com/XneWPro/guchicraft-launcher-files/releases/download/launcher-v1.0.12/GuchicraftLauncher-1.0.12-update.zip",
+    "sha256":  "9b7009bb1448251a5260e413dff8a1721b86a5de331ff6e58b4cd8e85e1c7429",
+    "size":  10742669,
     "mandatory":  false,
-    "changelog":  "Исправлен автоматический запуск лаунчера после обновления"
+    "changelog":  "Финальная проверка EXE и автоматического обновления"
 }
