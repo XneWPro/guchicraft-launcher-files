@@ -1,9 +1,9 @@
 {
     "schemaVersion":  1,
-    "version":  "1.1.0",
-    "downloadUrl":  "https://github.com/XneWPro/guchicraft-launcher-files/releases/download/launcher-v1.1.0/GuchicraftLauncher-1.1.0-update.zip",
-    "sha256":  "55f03c55dec5d1342cf18f5a5674334d8626a57736f4476d3937640e4f617cd8",
-    "size":  10844707,
+    "version":  "1.1.1",
+    "downloadUrl":  "https://github.com/XneWPro/guchicraft-launcher-files/releases/download/launcher-v1.1.1/GuchicraftLauncher-1.1.1-update.zip",
+    "sha256":  "6413cc0c7bbb641c793222534fe1f640e3559e70d64e407bb8d38ac6dd2f05bc",
+    "size":  10846744,
     "mandatory":  false,
-    "changelog":  "Изменение интерфейса лаунчера"
+    "changelog":  "Обновлён интерфейс и добавлено переключение главная-настройки"
 }
