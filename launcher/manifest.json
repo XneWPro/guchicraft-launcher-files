@@ -78,12 +78,6 @@
       "size": 1665975
     },
     {
-      "path": "mods/lambdynamiclights-4.12.2-26.2.jar",
-      "url": "files/mods/lambdynamiclights-4.12.2-26.2.jar",
-      "sha256": "d46d2ae5f1f0a97ca7ead891706759ed1d959279ebb11df45b71b6b4034a38d7",
-      "size": 1348440
-    },
-    {
       "path": "mods/lithium-fabric-0.25.2-mc26.2.jar",
       "url": "files/mods/lithium-fabric-0.25.2-mc26.2.jar",
       "sha256": "7588d4a76989498f56e11e63a2b1170fff476e8d9c4aac94e310b3e7db469e0f",
@@ -112,18 +106,6 @@
       "url": "files/mods/punchy-2.6.2-fabric-26.2.jar",
       "sha256": "aa6b213eb21ff050ba567bfca421cf102777dabde3fffe79fc973987a197d4a3",
       "size": 1972363
-    },
-    {
-      "path": "mods/smoothswapping-0.9.10-26.2-fabric.jar",
-      "url": "files/mods/smoothswapping-0.9.10-26.2-fabric.jar",
-      "sha256": "ef1476040de1c587b7d7000c3316ba87cee718e6a1595dc7aab669a0f146a579",
-      "size": 67601
-    },
-    {
-      "path": "mods/sound-physics-remastered-fabric-1.5.1-26.2.jar",
-      "url": "files/mods/sound-physics-remastered-fabric-1.5.1-26.2.jar",
-      "sha256": "5bf577901123044337070fee36c1731c86e2fc12923bbb6a1c4b49c3423adcd9",
-      "size": 201669
     },
     {
       "path": "mods/xaerominimap-fabric-26.2-26.4.2.jar",
