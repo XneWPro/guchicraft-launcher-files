@@ -72,12 +72,6 @@
       "size": 2533297
     },
     {
-      "path": "mods/jei-26.2-fabric-30.13.0.86.jar",
-      "url": "files/mods/jei-26.2-fabric-30.13.0.86.jar",
-      "sha256": "72f56680fc56e578d4fce35c83e91e25446a8fc8d93583d2e2166c18f6adc789",
-      "size": 1665975
-    },
-    {
       "path": "mods/lithium-fabric-0.25.2-mc26.2.jar",
       "url": "files/mods/lithium-fabric-0.25.2-mc26.2.jar",
       "sha256": "7588d4a76989498f56e11e63a2b1170fff476e8d9c4aac94e310b3e7db469e0f",
