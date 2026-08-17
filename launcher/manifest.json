@@ -36,6 +36,12 @@
       "size": 419286
     },
     {
+      "path": "mods/PuzzlesLib-v26.2.3-mc26.2.x-Fabric.jar",
+      "url": "files/mods/PuzzlesLib-v26.2.3-mc26.2.x-Fabric.jar",
+      "sha256": "746d90c6723fccce4fca076e7e87753354abc4670016e1c461120a3306ee9af1",
+      "size": 1145463
+    },
+    {
       "path": "mods/WorldEditCUI-26.2-01.jar",
       "url": "files/mods/WorldEditCUI-26.2-01.jar",
       "sha256": "b39b807125e9093d4c64cf3f6ff401d5496cc84ad7d335895461a3c7546bb544",
