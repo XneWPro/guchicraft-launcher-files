@@ -36,28 +36,10 @@
       "size": 419286
     },
     {
-      "path": "mods/PuzzlesLib-v26.2.3-mc26.2.x-Fabric.jar",
-      "url": "files/mods/PuzzlesLib-v26.2.3-mc26.2.x-Fabric.jar",
-      "sha256": "746d90c6723fccce4fca076e7e87753354abc4670016e1c461120a3306ee9af1",
-      "size": 1145463
-    },
-    {
       "path": "mods/WorldEditCUI-26.2-01.jar",
       "url": "files/mods/WorldEditCUI-26.2-01.jar",
       "sha256": "b39b807125e9093d4c64cf3f6ff401d5496cc84ad7d335895461a3c7546bb544",
       "size": 685178
-    },
-    {
-      "path": "mods/cloth-config-26.2.155-fabric.jar",
-      "url": "files/mods/cloth-config-26.2.155-fabric.jar",
-      "sha256": "def4be7639cd66704f7e304d658ea0f6bf490fb4a6eaa2dbf18ec2c3999d6349",
-      "size": 1135186
-    },
-    {
-      "path": "mods/custom-crosshair-mod-v1.6.7-fabric-mc26.2.jar",
-      "url": "files/mods/custom-crosshair-mod-v1.6.7-fabric-mc26.2.jar",
-      "sha256": "44552307910b5de4f83e5c5ef613a8711ac2ca624ee0c479603d1a9f36d6c8c7",
-      "size": 140386
     },
     {
       "path": "mods/emotecraft-for-MC26.2-3.4.0-b.build.161.jar",
@@ -72,40 +54,16 @@
       "size": 2533297
     },
     {
-      "path": "mods/lithium-fabric-0.25.2-mc26.2.jar",
-      "url": "files/mods/lithium-fabric-0.25.2-mc26.2.jar",
-      "sha256": "7588d4a76989498f56e11e63a2b1170fff476e8d9c4aac94e310b3e7db469e0f",
-      "size": 911988
-    },
-    {
       "path": "mods/logical_zoom-0.0.36-26.2-fabric.jar",
       "url": "files/mods/logical_zoom-0.0.36-26.2-fabric.jar",
       "sha256": "f3e0487edc20ace92c0739f34fd624a5990c5e2b997437163ae33618e1475894",
       "size": 119573
     },
     {
-      "path": "mods/modmenu-20.0.1-26.2.jar",
-      "url": "files/mods/modmenu-20.0.1-26.2.jar",
-      "sha256": "81bfbca06012c57c74949072f2ffaad06360badee4d00dc59bfaeac80dd24bd8",
-      "size": 614002
-    },
-    {
       "path": "mods/plasmovoice-fabric-26.2-2.1.13.jar",
       "url": "files/mods/plasmovoice-fabric-26.2-2.1.13.jar",
       "sha256": "108a3a56647ed9fd4673f8788b4a3bb42bd12925db2dd280196290f569a20b82",
       "size": 12207106
-    },
-    {
-      "path": "mods/punchy-2.6.2-fabric-26.2.jar",
-      "url": "files/mods/punchy-2.6.2-fabric-26.2.jar",
-      "sha256": "aa6b213eb21ff050ba567bfca421cf102777dabde3fffe79fc973987a197d4a3",
-      "size": 1972363
-    },
-    {
-      "path": "mods/xaerominimap-fabric-26.2-26.4.2.jar",
-      "url": "files/mods/xaerominimap-fabric-26.2-26.4.2.jar",
-      "sha256": "69284892d2eb853c9aefa85a4c9b74232c322da00207994c67ab8aeed8a64048",
-      "size": 2221925
     }
   ]
 }
