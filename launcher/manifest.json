@@ -66,10 +66,10 @@
       "size": 1149808
     },
     {
-      "path": "mods/fabric-api-0.155.2+26.2.jar",
-      "url": "files/mods/fabric-api-0.155.2+26.2.jar",
-      "sha256": "d6518c770024cbe8a556248f16fcdbb91c6a62f50227a6c3bae8190511e2c1b8",
-      "size": 2530080
+      "path": "mods/fabric-api-0.157.0+26.2.jar",
+      "url": "files/mods/fabric-api-0.157.0+26.2.jar",
+      "sha256": "acb7dc90a0430519c49548074d3fbf6fd81d13063f08f0af344b2a6b08a42620",
+      "size": 2533297
     },
     {
       "path": "mods/jei-26.2-fabric-30.13.0.86.jar",
