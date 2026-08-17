@@ -1,9 +1,9 @@
 {
-    "schemaVersion":  1,
-    "version":  "1.1.6",
-    "downloadUrl":  "https://github.com/XneWPro/guchicraft-launcher-files/releases/download/launcher-v1.1.6/GuchicraftLauncher-1.1.6-update.zip",
-    "sha256":  "537b8cf5e8d1ebffca111f5c20c39f57b3a72161d3b5c85ef79b705f7a6b657e",
-    "size":  12886015,
-    "mandatory":  false,
-    "changelog":  "Обновлён интерфейс"
+  "schemaVersion": 1,
+  "version": "1.1.6",
+  "downloadUrl": "https://github.com/XneWPro/guchicraft-launcher-files/releases/download/launcher-v1.1.6/GuchicraftLauncher-1.1.6-update.zip",
+  "sha256": "13c4bc35ec0faccaadff8981f719c75507bf3729c0bfa41dbed83b569d37d08c",
+  "size": 13001615,
+  "mandatory": false,
+  "changelog": "Новый интерфейс Windows 98, полноценные настройки и фирменная иконка ГУЧИКРАФТ"
 }
