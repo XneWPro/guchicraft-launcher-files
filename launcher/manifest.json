@@ -78,10 +78,10 @@
       "size": 119573
     },
     {
-      "path": "mods/plasmovoice-fabric-26.2-2.1.13.jar",
-      "url": "files/mods/plasmovoice-fabric-26.2-2.1.13.jar",
-      "sha256": "108a3a56647ed9fd4673f8788b4a3bb42bd12925db2dd280196290f569a20b82",
-      "size": 12207106
+      "path": "mods/plasmovoice-fabric-26.2-2.1.14.jar",
+      "url": "files/mods/plasmovoice-fabric-26.2-2.1.14.jar",
+      "sha256": "6f46f2e1cbbd038f6fb39bcbf95922c2b1368f44de57637948bd72bf3092a2b3",
+      "size": 12234039
     },
     {
       "path": "mods/sodium-fabric-0.9.1+mc26.2.jar",
