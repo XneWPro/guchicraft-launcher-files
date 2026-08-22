@@ -1,6 +1,6 @@
 {
   "manifestVersion": 2,
-  "buildVersion": "1.2.32",
+  "buildVersion": "1.2.33",
   "minecraftVersion": "26.2",
   "fabricLoaderVersion": "0.19.3",
   "java": {
@@ -88,6 +88,12 @@
       "url": "files/mods/voxy-0.2.18-beta.jar",
       "sha256": "dd9e10d2110879f07c1ce9bdf1945f3470b32e83977f094005ee8c642e8128d5",
       "size": 12657845
+    },
+    {
+      "path": "mods/voxy-server-side-fabric.jar",
+      "url": "files/mods/voxy-server-side-fabric.jar",
+      "sha256": "b7b1d92231c0b4b26cbba988516cac824d60cf9e7dfc61b4a59a6d5d108ac056",
+      "size": 7928776
     }
   ]
 }
