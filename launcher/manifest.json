@@ -1,6 +1,6 @@
 {
   "manifestVersion": 2,
-  "buildVersion": "1.2.35",
+  "buildVersion": "1.2.36",
   "minecraftVersion": "26.2",
   "fabricLoaderVersion": "0.19.3",
   "java": {
@@ -88,6 +88,12 @@
       "url": "files/mods/sodium-fabric-0.9.1+mc26.2.jar",
       "sha256": "de406c7a0ca5e748dfbe44740278400882a44e3109e2584b243ec02d4003344b",
       "size": 1834384
+    },
+    {
+      "path": "mods/xaerominimap-fabric-26.2-26.4.2.jar",
+      "url": "files/mods/xaerominimap-fabric-26.2-26.4.2.jar",
+      "sha256": "69284892d2eb853c9aefa85a4c9b74232c322da00207994c67ab8aeed8a64048",
+      "size": 2221925
     }
   ]
 }
