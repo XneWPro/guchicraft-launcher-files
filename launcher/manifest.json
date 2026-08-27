@@ -1,6 +1,6 @@
 {
   "manifestVersion": 2,
-  "buildVersion": "1.2.37",
+  "buildVersion": "1.2.38",
   "minecraftVersion": "26.2",
   "fabricLoaderVersion": "0.19.3",
   "java": {
@@ -66,6 +66,12 @@
       "size": 72677
     },
     {
+      "path": "mods/journeymap-fabric-26.2-6.0.5.jar",
+      "url": "files/mods/journeymap-fabric-26.2-6.0.5.jar",
+      "sha256": "b182f1e52f029b930e26c6838533816b1200cbcd3f68eb0511930b073420477d",
+      "size": 4326716
+    },
+    {
       "path": "mods/lambdynamiclights-4.12.3+26.2.jar",
       "url": "files/mods/lambdynamiclights-4.12.3+26.2.jar",
       "sha256": "6a806306fcf60e4697a350cbcbe27fb28739c6b6aeabe152cbac9d47ea3e8995",
@@ -88,18 +94,6 @@
       "url": "files/mods/sodium-fabric-0.9.1+mc26.2.jar",
       "sha256": "de406c7a0ca5e748dfbe44740278400882a44e3109e2584b243ec02d4003344b",
       "size": 1834384
-    },
-    {
-      "path": "mods/xaerominimap-fabric-26.2-26.4.2.jar",
-      "url": "files/mods/xaerominimap-fabric-26.2-26.4.2.jar",
-      "sha256": "69284892d2eb853c9aefa85a4c9b74232c322da00207994c67ab8aeed8a64048",
-      "size": 2221925
-    },
-    {
-      "path": "mods/xaeroworldmap-fabric-26.2-1.45.0.jar",
-      "url": "files/mods/xaeroworldmap-fabric-26.2-1.45.0.jar",
-      "sha256": "92f9719121e0e7dd0c286720f987af2ef82ece8786c55ca70f40a6cf02076267",
-      "size": 1477385
     }
   ]
 }
