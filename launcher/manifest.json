@@ -1,6 +1,6 @@
 {
   "manifestVersion": 2,
-  "buildVersion": "1.2.36",
+  "buildVersion": "1.2.37",
   "minecraftVersion": "26.2",
   "fabricLoaderVersion": "0.19.3",
   "java": {
@@ -78,10 +78,10 @@
       "size": 119573
     },
     {
-      "path": "mods/plasmovoice-fabric-26.2-2.1.15.jar",
-      "url": "files/mods/plasmovoice-fabric-26.2-2.1.15.jar",
-      "sha256": "73f771746d85fa84f50ce2574e661ff710b0dcc17a7f519061489c8afbb0be07",
-      "size": 12234648
+      "path": "mods/plasmovoice-fabric-26.2-2.1.16.jar",
+      "url": "files/mods/plasmovoice-fabric-26.2-2.1.16.jar",
+      "sha256": "ecdc653794303cde801562953cc0b9bbd8c7ecd124b398d6a8c3cee79c904259",
+      "size": 12239523
     },
     {
       "path": "mods/sodium-fabric-0.9.1+mc26.2.jar",
